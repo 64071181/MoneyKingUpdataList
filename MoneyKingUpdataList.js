@@ -1,5 +1,1 @@
-
-
-//Windows,Mac,iOS,Android 
-  
-MoneyKingUpdataList = [1,2,3,4]
+這是新的檔案內容
