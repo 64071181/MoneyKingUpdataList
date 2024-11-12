@@ -1,1 +1,1 @@
-這是新的檔案內容
+MoneyKingUpdataList = ["1","2","3","4"]
